@@ -1,0 +1,31 @@
+_repo: The-eternal-moment-and-other-stories_72890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: https://en.wikipedia.org/wiki/E._M._Forster
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72890'
+language: en
+pgterms:marc905: 20240105100843forster
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York, NY :$bHarcourt, Brace & Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The eternal moment and other stories
+url: http://www.gutenberg.org/ebooks/72890
