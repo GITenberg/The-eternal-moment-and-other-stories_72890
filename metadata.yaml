@@ -1,5 +1,8 @@
 _repo: The-eternal-moment-and-other-stories_72890
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72890-h/images/cover.jpg
 creator:
   author:
     agent_name: Forster, E. M. (Edward Morgan)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/975
     wikipedia: https://en.wikipedia.org/wiki/E._M._Forster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72890#The-eternal-moment-and-other-stories
 gutenberg_issued: '2024-02-07'
 gutenberg_type: Text
 identifiers:
